@@ -123,7 +123,7 @@
       <a title="AWS" href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
     </td>
     <td>
-      <a title="Oracle Cloud" href="https://cloud.oracle.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle-cloud" width="40" height="40"/></a>
+      <a title="Oracle Cloud" href="https://cloud.oracle.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle-cloud" width="auto" height="auto"/></a>
     </td>
     <td>
       <a title="DigitalOcean" href="https://www.digitalocean.com" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="30"/></a>
