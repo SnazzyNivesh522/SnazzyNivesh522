@@ -105,21 +105,68 @@
     </td>
   </tr>
   <tr>
+    <td><h4>Infrastructure</h4></td>
     <td>
-      <h4>Infrastructure</h4>
+      <a title="Docker" href="https://docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
     </td>
     <td>
-      <a title="Docker" href="https://docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+      <a title="Nginx" href="https://nginx.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
     </td>
     <td>
-     <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+      <a title="Apache" href="https://httpd.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/></a>
     </td>
     <td>
-     <a title="Apache" href="https://httpd.apache.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a>
+      <a title="AWS" href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
     </td>
     <td>
-      <a title="Amazon Web Services" href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+      <a title="Oracle Cloud" href="https://cloud.oracle.com" target="_blank"><img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/></a>
     </td>
+    <td>
+      <a title="DigitalOcean" href="https://www.digitalocean.com" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="30"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Machine Learning</h4></td>
+    <td>
+      <a title="TensorFlow" href="https://www.tensorflow.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+    </td>
+    <td>
+      <a title="PyTorch" href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+    </td>
+    <td>
+      <a title="Scikit-Learn" href="https://scikit-learn.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+    </td>
+    <td>
+      <a title="NumPy" href="https://numpy.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+    </td>
+    <td>
+      <a title="Pandas" href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Orchestration</h4></td>
+    <td>
+      <a title="Kestra" href="https://kestra.io" target="_blank"><img src="https://img.shields.io/badge/Kestra-4C51BF?style=for-the-badge&logo=data&logoColor=white" height="30"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><h4>Cybersecurity</h4></td>
+    <td>
+      <a title="OpenVAS" href="https://www.openvas.org" target="_blank"><img src="https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" height="30"/></a>
+    </td>
+    <td>
+      <a title="Nuclei" href="https://github.com/projectdiscovery/nuclei" target="_blank"><img src="https://img.shields.io/badge/Nuclei-292D3E?style=for-the-badge&logo=security&logoColor=white" height="30"/></a>
+    </td>
+    <td>
+      <a title="Tenable" href="https://www.tenable.com" target="_blank"><img src="https://img.shields.io/badge/Tenable-0082C9?style=for-the-badge&logo=tenable&logoColor=white" height="30"/></a>
+    </td>
+    <td>
+      <a title="OWASP ZAP" href="https://www.zaproxy.org" target="_blank"><img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="30"/></a>
+    </td>
+    <td><strong>VAPT, Reconnaissance, EASM</strong></td>
   </tr>
   <tr>
     <td>
