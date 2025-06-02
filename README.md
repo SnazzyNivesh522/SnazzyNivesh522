@@ -37,14 +37,12 @@
     <td>
       <h4>Frontend Tooling</h4>
     </td>
-
     <td>
       <a title="Vite" href="https://vitejs.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="API Extractor" href="https://api-extractor.com" target="_blank"> <img src="https://api-extractor.com/images/site/api-extractor.svg" alt="api-extractor" width="40" height="40"/> </a>
     </td>
-
   </tr>
   <tr>
     <td>
