@@ -185,7 +185,7 @@
 ### 🗃️ Contributions
 
 <p align = "center">
-  [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SnazzyNivesh522&theme=algolia&show_icons=true)](https://github.com/SnazzyNivesh522)
+  [![Nivesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SnazzyNivesh522&theme=algolia&show_icons=true)](https://github.com/SnazzyNivesh522)
 </p>
 <p align = "center">
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=SnazzyNivesh522&theme=algolia&show_icons=true)](https://github.com/SnazzyNivesh522)
