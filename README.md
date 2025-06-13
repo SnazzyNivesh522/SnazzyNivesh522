@@ -185,7 +185,7 @@
 ### 🗃️ Contributions
 
 <p align = "center">
-  <img src = "https://your-self-hosted-instance/api/top-langs?username=SnazzyNivesh522&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Nivesh's Languages/Frameworks" width = 400 />
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SnazzyNivesh522)](https://github.com/SnazzyNivesh522/Portfolio)
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SnazzyNivesh522&count_private=true&theme=dark&hide_border=true" alt = "Nivesh's Contribution" width = 400 / >
