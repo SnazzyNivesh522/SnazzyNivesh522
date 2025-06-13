@@ -185,11 +185,10 @@
 ### 🗃️ Contributions
 
 <p align = "center">
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SnazzyNivesh522)](https://github.com/SnazzyNivesh522/Portfolio)
+  [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SnazzyNivesh522&theme=algolia&show_icons=true)](https://github.com/SnazzyNivesh522)
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SnazzyNivesh522&count_private=true&theme=dark&hide_border=true" alt = "Nivesh's Contribution" width = 400 / >
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SnazzyNivesh522&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=SnazzyNivesh522&theme=algolia&show_icons=true)](https://github.com/SnazzyNivesh522)
 </p>
 
 ### 🎓 Achievements
